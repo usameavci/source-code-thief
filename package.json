@@ -1,0 +1,14 @@
+{
+  "name": "calinti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Üsame Fethullah AVCI <usameavci@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "chalk": "^2.1.0",
+    "del": "^3.0.0",
+    "mkdirp": "^0.5.1"
+  }
+}
